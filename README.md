@@ -34,6 +34,11 @@ O PROJETO FOI CONSTRUÍDO UTILIZANDO AS SEGUINTES FERRAMENTAS:
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT.  
+Consulte o arquivo [LICENSE](LICENSE.txt) para mais informações.
+
 ## ESTRUTURA DO PROJETO (PADRÃO DAO)
 
 O SOFTWARE SEGUE A ARQUITETURA **DAO (DATA ACCESS OBJECT)** PARA MELHOR ORGANIZAÇÃO E MANUTENÇÃO:
